@@ -1,0 +1,6 @@
+{
+  "name": "Placatech",
+  "description": "Landing page moderna, minimalista e direta para a Placatech — Especialistas em Reparo de Placas Eletrônicas há 30 anos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
